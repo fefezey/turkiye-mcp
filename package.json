@@ -27,6 +27,14 @@
     "resmi-tatil"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fefezey/turkiye-mcp.git"
+  },
+  "homepage": "https://github.com/fefezey/turkiye-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/fefezey/turkiye-mcp/issues"
+  },
   "engines": {
     "node": ">=20"
   },

@@ -25,7 +25,7 @@ Dil modelleri asgari ücreti, bayram tarihlerini ya da dünkü dolar kurunu gene
 Node.js 20 veya üzeri gerekir.
 
 ```bash
-git clone https://github.com/<kullanici-adi>/turkiye-mcp.git
+git clone https://github.com/fefezey/turkiye-mcp.git
 cd turkiye-mcp
 npm install
 npm run build
